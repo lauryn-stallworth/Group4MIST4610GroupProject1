@@ -135,6 +135,8 @@ This structured model allows our bakery to efficiently manage its customers, ord
 
 - Query 10 determines which time of day has the highest percentage of delivery orders by comparing the number of delivery orders to the total number of orders at different times. It helps managers identify what are the peak delivery periods, which could help with staff assignments and utilizing inventory more effectively during these high-demand times. Looking into these delivery trends throughout the day can also show managers when they should consider offering promotions or discounts during slower times to increase profitability.
 
+### Queries Table
+<img width="743" alt="Screenshot 2025-03-18 at 19 26 52" src="https://github.com/user-attachments/assets/22b2dc1f-a582-451f-9cf8-91f4328c460a" />
 
 ## Database Information
 
