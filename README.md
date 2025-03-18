@@ -5,11 +5,11 @@
 Sp25_21479_Group4
 
 ## Team Members 
-   1. Lauryn Stallworth
-   2. Abby Poore
-   3. Claire Warren 
-   4. Liam Aiken
-   5. Nick Weir
+   1. Lauryn Stallworth 
+   2. Abby Poore (@abbypoore)
+   3. Claire Warren (@clairewarren8)
+   4. Liam Aiken (@liamaiken)
+   5. Nick Weir (@nick-weir)
 
 ## Scenario Description
 
