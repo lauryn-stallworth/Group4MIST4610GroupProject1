@@ -4,7 +4,7 @@
 ## Team Name
 Sp25_21479_Group4
 
-## Team Memebers 
+## Team Members 
    1. Lauryn Stallworth
    2. Abby Poore
    3. Claire Warren 
