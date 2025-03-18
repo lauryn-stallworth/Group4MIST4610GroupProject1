@@ -5,7 +5,7 @@
 Sp25_21479_Group4
 
 ## Team Members 
-   1. Lauryn Stallworth 
+   1. Lauryn Stallworth (@lauryn-stallworth)
    2. Abby Poore (@abbypoore)
    3. Claire Warren (@clairewarren8)
    4. Liam Aiken (@liamaiken)
