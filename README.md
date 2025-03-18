@@ -29,9 +29,7 @@ The bakery also manages Employees, whose details include roles, salaries, emails
 We have the option of having our food and drinks delivered. The Delivery table will track each of these deliveries, including tracking pickup and delivery times, statuses, and associated orders. Deliveries are assigned to DeliveryDrivers and this relationship is a one to many relationship as each delivery driver can have multiple deliveries, but each delivery only has one delivery driver. Delivery and Order will have a one to one relationship because each delivery is assigned to one order and each order only has one corresponding delivery. 
 This structured model allows our bakery to efficiently manage its customers, orders, employees, inventory, and deliveries while maintaining strong supplier relationships and a loyalty program.
 
-<img width="776" alt="Screenshot 2025-03-18 at 18 43 31" src="https://github.com/user-attachments/assets/197bbca4-5755-475f-935a-6c09821fef71" />
-
-
+![image](https://github.com/user-attachments/assets/d12ca6ad-8d63-4e19-9efc-dbdfb154a2eb)
 
 
 ## Data Dictionary
